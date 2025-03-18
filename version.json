@@ -1,6 +1,8 @@
 {
-    "version": "1.4",
-    "update_url": "https://github.com/Anteroot/anaconda-trade",
+    "version": "1.9",
+    "uuid": "9e838c09-b326-4782-be2a-4cca9899c565",
+    "faction_url": "https://inara.cz/elite/minorfaction-assets/33400/",
     "encoded_faction_url": "GwEEFQFlXEoKGxMXPkUGA1wQHAwGOlwIChsdFzkKBg0aGh5IEywAABcGXVZsX1VJXA==",
-    "public_key": "super_secure_key"
+    "update_url": "https://inara.cz/elite/minorfaction-assets/33400/",
+    "timestamp": "2025-03-18 18:04:45"
 }
